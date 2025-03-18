@@ -3,14 +3,15 @@
  -->
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Web Application Project with API</b>
-
-
+- <b>Coffee Website with C#</b>
+- <b>Coffee Website 2.0 (With Javascript instead)</b>
+- <b>Sustainable Makeup Website with Python Flask and APIs</b>
 
 <h2> 🤳 Connect with me:</h2>
 
-<p src="https://www.linkedin.com/in/muhammad-firdaus-bin-hisham-574a11225?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Beip3Qs5oQ9C8rNjUJN%2B2Yw%3D%3D">LinkedIn Profile</p>
-[linkedin]: https://linkedin.com/in/joshmadakor
+- [LinkedIn](https://www.linkedin.com/in/muhammad-firdaus-bin-hisham-574a11225)
+
+
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
