@@ -8,7 +8,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-- [LinkedIn](https://linkedin.com/in/muhammad-firdaus-bin-hisham-574a11225)
+- [LinkedIn](https://www.linkedin.com/in/muhammad-firdaus-bin-hisham-574a11225?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bh%2FmUxva2RP66q8qmlzlunA%3D%3D)
 
 
 
